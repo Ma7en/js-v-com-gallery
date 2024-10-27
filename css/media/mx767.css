@@ -1,0 +1,41 @@
+
+@media (max-width: 767px) {
+
+
+/* gallery-1 */
+
+.gallery-1 .cont {
+    width: 100vw;
+}
+
+.gallery-1 .cont .panel:nth-last-child(4),
+.gallery-1 .cont .panel:nth-last-child(5) {
+    display: none;
+}
+
+
+
+
+
+
+/* gallery-3 */
+.gallery-3 .cont .panels {
+    font-size: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
